@@ -1,5 +1,4 @@
 package com.example.note_app.presentation.screens.note.view_model
-
 import android.content.Context
 import androidx.activity.ComponentActivity
 import androidx.compose.ui.graphics.Color
@@ -69,6 +68,7 @@ class NoteInputViewModel @Inject constructor(private val repository: INoteReposi
         }
 
     }
+
 
     fun deleteNote(context: Context){
         CoroutineScope(Dispatchers.IO).launch {
