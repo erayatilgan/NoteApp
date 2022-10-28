@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">XNote</string>
+    <string name="create_note">Note Oluştur</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="delete">Sil</string>
+    <string name="empty_page">Notunuz Bulunmamaktadır</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="delete_note_dialog_title">Are you sure?</string>
+    <string name="delete_note_dialog_content">Your note will be deleted permanently. Do you want to continue?</string>
+</resources>
